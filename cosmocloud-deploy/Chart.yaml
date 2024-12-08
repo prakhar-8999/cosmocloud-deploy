@@ -1,0 +1,5 @@
+apiVersion: v2
+name: cosmocloud-deploy
+description: A Helm chart for deploying the Cosmocloud application for a recruitment task!
+version: 0.1.0
+type: application
